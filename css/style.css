@@ -43,7 +43,7 @@ p
   }
 #fixed
  {
-    background: url(/img/bg.jpg) no-repeat top center fixed;
+    background: url(../img/bg.jpg) no-repeat top center fixed;
     display: table;
     height: 60%;
     position: relative;
@@ -52,7 +52,7 @@ p
  }
  #fixed2
  {
-    background: url(/img/bg2.png) no-repeat top center fixed;
+    background: url(../img/bg2.png) no-repeat top center fixed;
     display: table;
     height: 60%;
     position: relative;
